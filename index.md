@@ -1,3 +1,4 @@
-# Welcome to my blog
+# Welcome to Mahesh Akiwates blog
 
-I'm glad you are here. I plan to talk about ...
+I'm glad you are here. This is my first blog for the site.
+Please provide more likes
